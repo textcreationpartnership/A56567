@@ -1,0 +1,481 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pastoral occasion'd by the arrival of His Royal Highness Prince George of Denmark, &amp;c. design'd to marry Her Highness the Lady Ann, daughter to that heroick Prince, James, Duke of York and Albany</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56567</idno>
+            <idno type="STC">Wing P676</idno>
+            <idno type="STC">ESTC R6588</idno>
+            <idno type="EEBO-CITATION">12801090</idno>
+            <idno type="OCLC">ocm 12801090</idno>
+            <idno type="VID">94047</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56567)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94047)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 725:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pastoral occasion'd by the arrival of His Royal Highness Prince George of Denmark, &amp;c. design'd to marry Her Highness the Lady Ann, daughter to that heroick Prince, James, Duke of York and Albany</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N. Thompson ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>George, --  Prince, consort of Anne, Queen of Great Britain, 1653-1708 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94047:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:94047:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>A PASTORAL Occaſion'd by the ARRIVAL OF His ROYAL HIGHNESS Prince GEORGE Of <hi>DENMARK,</hi> &amp;c.</p>
+            <p>Deſign'd to Marry Her HIGHNESS THE LADY ANN, DAUGHTER to that Heroick PRINCE, JAMES, Duke of YORK and ALBANY.</p>
+            <p>Printed by <hi>N. Thompſon,</hi> at the Entrance into the <hi>Old-Spring-Garden</hi> near <hi>Charing-Croſs,</hi> MDCLXXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="pastoral_dialogue">
+            <pb facs="tcp:94047:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:94047:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>A PASTORAL.</head>
+            <sp>
+               <speaker>Tomalin,</speaker>
+               <lg>
+                  <l>WElcom Great Man! But ſtay, I hear</l>
+                  <l>Some of my fellow-Swains draw near,</l>
+                  <l>With them I'll mingle Joys, and We</l>
+                  <l>(With Shepherds Art, and Melody)</l>
+                  <l>Will joyn to ſing his Praiſe, and make</l>
+                  <l>The neighb'ring Woods and Groves partake.</l>
+               </lg>
+               <lg>
+                  <l>What makes you now ſo dull? behold, the Sun</l>
+                  <l>Is half-way up the Hill of Heav'n run.</l>
+                  <l>Is this a time to lagg, when all the Plain</l>
+                  <l>Does eccho with the God-like Shepherds name?</l>
+                  <l>The Brisk, the Noble <hi>Damon</hi>'s, who does chear</l>
+                  <l>Each Shepherds heart, and glad our Hemiſphere.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:94047:3"/>
+               <!-- PDF PAGE 3 -->
+               <speaker>Willie,</speaker>
+               <lg>
+                  <l>Oh <hi>Tomalin!</hi> you can't believe</l>
+                  <l>With what glad heart I did receive</l>
+                  <l>The happy News No ſound did e'r</l>
+                  <l>Unto my raviſh'd ears more welcom bear:</l>
+                  <l>The braveſt Youth that ever took</l>
+                  <l>Into his hand a Spear or Crook.</l>
+                  <l>Oh, with what Pride (methinks) I ſee,</l>
+                  <l>What Noble God-like Gallantry,</l>
+                  <l>He walks, and traces o'r the Plain,</l>
+                  <l>While ev'ry wond'ring Rural Swain</l>
+                  <l>With willing heart does homage pay,</l>
+                  <l>And at his feet their humble Off'rings lay.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hobbinol,</speaker>
+               <lg>
+                  <l>All this, my <hi>Tomalin,</hi> is true;</l>
+                  <l>But what's the cauſe Him hither drew?</l>
+                  <l>Was it to ſhew His comely Grace,</l>
+                  <l>Or Noble Form, or Manly Face;</l>
+                  <l>Or how to dance it o'r the Lays,</l>
+                  <l>On Summer-nights and Holy-days;</l>
+                  <l>Or with his Oaten-pipe and Quill,</l>
+                  <l>With artful Swains to try his Skill?</l>
+                  <l>No; 'Twas the charming SYLVIA drew the Swain,</l>
+                  <l>The Crown and Glory of the Plain,</l>
+                  <l>
+                     <pb n="3" facs="tcp:94047:3"/>
+                     <!-- PDF PAGE 3 -->
+Like Roſes bluſhing, and more fair</l>
+                  <l>Than Down of Swans, or Lillies are:</l>
+                  <l>Great Natures beſt! more brisk and gay</l>
+                  <l>Than bright <hi>Aurora,</hi> or the Day.</l>
+                  <l>Had <hi>Paris</hi> ſeen Her, without doubt</l>
+                  <l>Sh'ad merited the Golden Fruit,</l>
+                  <l>And thoſe fair Goddeſſes had been</l>
+                  <l>But Dowdies to our Rural Queen.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Tomalin,</speaker>
+               <lg>
+                  <l>No Shepherdeſs was ever yet</l>
+                  <l>Like Her ſo Nobly Good and Great;</l>
+                  <l>No Beauty but to her wou'd yield,</l>
+                  <l>She is the Goddeſs of the Field:</l>
+                  <l>How many Garlands have I ſeen</l>
+                  <l>Preſented Her upon the Green!</l>
+                  <l>And with what awful Fear and Love</l>
+                  <l>Each Swain who moſt ſhou'd ſerve her ſtrove!</l>
+                  <l>No Madrigal or Sonnet e'r</l>
+                  <l>Was ſung, but ſtill in Praiſe of Her,</l>
+                  <l>Nor Oaten-pipe was ever made,</l>
+                  <l>But to delight her in the Shade;</l>
+                  <l>All that the Shepherds Wit or Skill</l>
+                  <l>Could do, was done to pleaſe her ſtill.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:94047:4"/>
+               <!-- PDF PAGE 4 -->
+               <speaker>Willie,</speaker>
+               <lg>
+                  <l>This is a happy day indeed!</l>
+                  <l>Let's leave our Flocks alone to feed,</l>
+                  <l>And joyn our homely Rural Lays,</l>
+                  <l>To welcom HIM, and ſing HER praiſe.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hobbinol,</speaker>
+               <lg>
+                  <l>Happy! In truth you well may ſay</l>
+                  <l>It is the happieſt happy day;</l>
+                  <l>We ſhall not only have a Swain</l>
+                  <l>To Rule, and to ſecure the Plain,</l>
+                  <l>One that is skill'd in ev'ry Art,</l>
+                  <l>Can uſe the Crook as well as Dart,</l>
+                  <l>Will clear our Folds from Wolves and Thieves,</l>
+                  <l>That kill'd our Lambs, and ſtole our Beeves:</l>
+                  <l>But <hi>Sylvia</hi> too will have no leſs</l>
+                  <l>Than perfect Joy and Happineſs;</l>
+                  <l>How pleas'd She looks; how Sweet and Grave,</l>
+                  <l>To ſee ſo Great a Man Her Slave:</l>
+                  <l>Oh! what muſt we expect and find</l>
+                  <l>From ſuch a Noble Pair, and ſo combin'd!</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Tomalin,</speaker>
+               <lg>
+                  <l>Behold, the Dam'ſels all appear,</l>
+                  <l>Each one a Garland too does bear,</l>
+                  <l>
+                     <pb n="5" facs="tcp:94047:4"/>
+                     <!-- PDF PAGE 4 -->
+To dreſs the Fields more fine and gay,</l>
+                  <l>And make this Shepherds Holy-day.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Willie,</speaker>
+               <lg>
+                  <l>They ne'r more reaſon had than now,</l>
+                  <l>Since <hi>Sylvia</hi> does to <hi>Cupid</hi> bow;</l>
+                  <l>Each one may now go chooſe her Mate,</l>
+                  <l>And ſo ſubmit to Love and Fate.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Tomalin,</speaker>
+               <lg>
+                  <l>And now w'are all together met,</l>
+                  <l>Beneath this ſhady Grove let's ſit,</l>
+                  <l>Adorn'd in harmleſs Shepherds Weed,</l>
+                  <l>And tune each Oaten-pipe and Reed,</l>
+                  <l>And with our Songs and Roundelays</l>
+                  <l>To ſing the Noble <hi>Damon</hi>'s Praiſe;</l>
+                  <l>
+                     <hi>Sylvia</hi> ſhall be our Theme, and then</l>
+                  <l>To both we'll play, of both we'll ſing agen;</l>
+                  <l>To both we'll wiſh a happy Fate,</l>
+                  <l>And both their happy Joys Congratulate.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hobbinol,</speaker>
+               <lg>
+                  <l>Come bring our Inſtruments before us,</l>
+                  <l>And let each honeſt Heart</l>
+                  <l>And artful Hand now bear a part,</l>
+                  <l>To make a joyful <hi>Chorus:</hi>
+                  </l>
+                  <l>
+                     <pb n="6" facs="tcp:94047:5"/>
+                     <!-- PDF PAGE 5 -->
+Auſpitious <hi>Pan!</hi> look down, and be</l>
+                  <l>Propitious to our Harmony;</l>
+                  <l>Aſſiſt each Oaten-pipe and Quill,</l>
+                  <l>And teach us Thy diviner Skill,</l>
+                  <l>That we in Rural Sonnets may ſet forth</l>
+                  <l>The Praiſe of DAMON, and Fair SYLVIAS Worth.</l>
+               </lg>
+            </sp>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <head>SONG.</head>
+                        <sp>
+                           <speaker>Tomalin,</speaker>
+                           <lg n="1">
+                              <head>I.</head>
+                              <l>YE Pow'rs that influence Chaſt Loves,</l>
+                              <l>And You that rule o'r Meads and Groves,</l>
+                              <l>Look down, and ſee,</l>
+                              <l>And let this Pair</l>
+                              <l>As happy be,</l>
+                              <l>As She's moſt Good, moſt excellently Fair.</l>
+                           </lg>
+                        </sp>
+                        <sp>
+                           <speaker>Willie,</speaker>
+                           <lg n="2">
+                              <head>II.</head>
+                              <l>Never before in <hi>Albions</hi> Plain</l>
+                              <l>Appear'd ſo brisk, ſo gay a Swain;</l>
+                              <l>So Princely brave,</l>
+                              <l>His look does awe</l>
+                              <l>Each Rural Slave,</l>
+                              <l>Whoſe ev'ry Word to ev'ry Swain's a Law.</l>
+                           </lg>
+                        </sp>
+                        <sp>
+                           <pb n="7" facs="tcp:94047:5"/>
+                           <!-- PDF PAGE 5 -->
+                           <speaker>Hob.</speaker>
+                           <lg n="3">
+                              <head>III.</head>
+                              <l>
+                                 <hi>Sylvia,</hi> the Goddeſs of the Groves,</l>
+                              <l>That reigns in all our Hearts and Loves,</l>
+                              <l>To Her this day</l>
+                              <l>We celebrate,</l>
+                              <l>And ſing and play,</l>
+                              <l>To wiſh Her joy in Her now happy Fate.</l>
+                           </lg>
+                        </sp>
+                        <sp>
+                           <speaker>CHORUS.</speaker>
+                           <lg>
+                              <l>May all the Joys that Heav'n can give light here,</l>
+                              <l>Bleſt with a God-like Fathers tender Care,</l>
+                              <l>Under the Wings of Mighty <hi>PAN,</hi> may You</l>
+                              <l>All His, and your Great Fathers Foes ſubdue,</l>
+                              <l>That all the World may ſee what You and Heav'n can do.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <pb n="8" facs="tcp:94047:6"/>
+               <!-- PDF PAGE 6 -->
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <head>SONG.</head>
+                        <sp>
+                           <speaker>Tom.</speaker>
+                           <l>Your Flocks ſhall all increaſe,</l>
+                        </sp>
+                        <sp>
+                           <speaker>Wil.</speaker>
+                           <l>And you ſhall live in Peace;</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <l>Your Sheep ſhall never ſtray;</l>
+                        </sp>
+                        <sp>
+                           <speaker>Wil.</speaker>
+                           <l>Your Lambs</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <l>The Wolf ſhall never ſlay;</l>
+                        </sp>
+                        <sp>
+                           <speaker>Wil.</speaker>
+                           <l>Their Dams</l>
+                        </sp>
+                        <sp>
+                           <speaker>Tom.</speaker>
+                           <l>Shall always fruitful be;</l>
+                        </sp>
+                        <sp>
+                           <speaker>Wil.</speaker>
+                           <l>Each Swain</l>
+                        </sp>
+                        <sp>
+                           <speaker>Tom.</speaker>
+                           <l>Shall Off'rings bring to Thee;</l>
+                        </sp>
+                        <sp>
+                           <speaker>Wil.</speaker>
+                           <l>The Plain,</l>
+                        </sp>
+                        <sp>
+                           <speaker>All.</speaker>
+                           <l>And never-dying loud-mouth'd Fame,</l>
+                           <l>Shall ſtill reſound with Noble <hi>Damon</hi>'s Name.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Tom.</speaker>
+                           <l>
+                              <hi>Sylvia</hi> ſhall be,</l>
+                           <l>Thou Mighty Man, to Thee</l>
+                           <l>A Bleſſing,</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <l>Poſſeſſing</l>
+                           <l>More Charms</l>
+                           <l>In Her Arms</l>
+                           <l>Than e'r bleſt Swain before.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Wil.</speaker>
+                           <l>Ev'ry Field</l>
+                           <l>Still ſhall yield</l>
+                           <l>Somewhat more,</l>
+                           <l>To Thy Store.</l>
+                        </sp>
+                        <sp>
+                           <pb facs="tcp:94047:6"/>
+                           <!-- PDF PAGE 6 -->
+                           <speaker>All.</speaker>
+                           <l>Whole Nature ſhall conſpire</l>
+                           <l>To fulfil</l>
+                           <l>Thy great Will,</l>
+                           <l>And more Noble Deſire.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Tom.</speaker>
+                           <l>In this great Union, We</l>
+                           <l>Expect not only Happineſs,</l>
+                           <l>But that in future Ages it ſhould bleſs,</l>
+                           <l>And ſend down Joys to our Poſterity.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Willie.</speaker>
+                           <l>Ne'r may you want a Son,</l>
+                           <l>To grace the fertile <hi>Albion</hi> Plain;</l>
+                           <l>How wonderfully bleſt would be each Swain,</l>
+                           <l>To pay their Homage at His Rural Throne.</l>
+                        </sp>
+                        <sp>
+                           <speaker>CHORUS by All.</speaker>
+                           <l>May ev'ry thing aſſiſt your Love;</l>
+                           <l>May all the Pow'rs that rule above</l>
+                           <l>Conspire together how to bleſs,</l>
+                           <l>And give You everlaſting Happineſs.</l>
+                        </sp>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <pb facs="tcp:94047:7"/>
+               <!-- PDF PAGE 7 -->
+               <speaker>Hobbinol,</speaker>
+               <l>'Twas well perform'd; but 'fore we ſleep</l>
+               <l>Let's careful be to fold our Sheep:</l>
+               <l>Then practice o'r our Rural Lays</l>
+               <l>We ſung to day in DAMON'S Praiſe.</l>
+            </sp>
+            <sp>
+               <speaker>Willie,</speaker>
+               <l>Agreed, my <hi>Hobbinol,</hi> we will,</l>
+               <l>And ev'ry day increaſe our Skill;</l>
+               <l>And ev'ry year, more brisk and gay,</l>
+               <l>Welcome this happy Pair, this Shepherds Holy-day.</l>
+            </sp>
+            <trailer>FINIS:</trailer>
+            <pb facs="tcp:94047:7"/>
+            <!-- PDF PAGE 7 -->
+         </div>
+      </body>
+   </text>
+</TEI>
